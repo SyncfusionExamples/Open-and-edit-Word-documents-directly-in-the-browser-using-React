@@ -1,5 +1,6 @@
-# Open-and-edit-Word-documents-directly-in-the-browser-using-React
-This repository contains an example of how to open and edit Word documents directly in the browser using the Syncfusion DOCX Editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
+# Open and edit word documents in the browser using React DOCX Editor (Document Editor)
+
+This repository contains an example of how to open and edit Word documents directly in the browser using the Syncfusion<sup style="font-size:70%">&reg;</sup> [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
 
@@ -35,13 +36,13 @@ This repository contains an example of how to open and edit Word documents direc
     This will open the application in your default web browser, typically at `http://localhost:3000`.
 
 
-  # Resources 
+# Resources
 
-- **Product page:**   [Syncfusion® React Word Processor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor) 
+- **Product page:**   [Syncfusion® React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/react/getting-started) 
+- **Documentation:**   [Syncfusion® React DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/react/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/react/demos/) 
+- **Online demo:**   [Syncfusion® React DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/react/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples)
 
 # Support and feedback 
 
@@ -52,5 +53,3 @@ Request new feature through [Syncfusion® feedback portal](https://www.syncfusi
 # License
 
 This is a commercial product and requires a paid license for possession or use Syncfusion's licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/license/studio/22.2.5/syncfusion_essential_studio_eula.pdf?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) or start a free 30\-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). 
-
-
